@@ -15817,7 +15817,7 @@ parcelHelpers.export(exports, "TIMEOUT_SEC", ()=>TIMEOUT_SEC
 );
 var _regeneratorRuntime = require("regenerator-runtime");
 const API_URL = 'https://forkify-api.herokuapp.com/api/v2/recipes/';
-const TIMEOUT_SEC = 10;
+const TIMEOUT_SEC = 10; //
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"JacNc","regenerator-runtime":"cH8Iq"}],"9l3Yy":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
